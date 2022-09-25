@@ -663,11 +663,11 @@ section {
 }
 .tech-stack {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
   align-items: center;
 }
 .tech-stack img {
-  width: 40px;
+  width: 30px;
   aspect-ratio: 1/1;
 }
 
